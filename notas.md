@@ -1,1 +1,2 @@
  3 cosas que haya aprendido: la importancia del proceso de add, commit, push y status. 2. Que son 3 páginas diferentes las que estoy usando VScode, HUb y GitHub. 3. Ser paciente en el proceso, ya que estamos acostumbrados a casi ya no leer.
+ cuarta idea: Como con git se forma casi todo es como un "print"
